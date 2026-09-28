@@ -12,7 +12,7 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 
 | | |
 |---|---|
-| **Deck (19 slides)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
+| **Deck (23 slides + 3 appendix)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
 | **Website prototype** | [site/index.html](site/index.html). Download it and open it in a browser, or view it on GitHub Pages once enabled |
 | **Market, economics and projections** | [docs/ECONOMICS.md](docs/ECONOMICS.md) · [docs/projections_scenarios.csv](docs/projections_scenarios.csv) |
 | **Milestones and go-to-market** | [docs/MILESTONES.md](docs/MILESTONES.md) |
@@ -79,6 +79,10 @@ NBC turns worlds like this into repeatable packages other facilitators can run.
 | **SOM (year 5)** | ~$3.2M a year | 800 paying sites, about 3% of Ghana's schools (central scenario) |
 
 **Year-5 revenue by scenario:** low $0.36M (100 sites) · central $3.2M (800 sites) · high $11.3M (2,500 sites, including a second country). These are projections from stated assumptions, not forecasts, and we will rebuild them from pilot data. Details: [ECONOMICS.md](docs/ECONOMICS.md).
+
+**Where this goes:** Learning Worlds and facilitators come first. Next come records families own. Later, the NBC Standard (independent certification of worlds and centres, "the IB for the AI era") and pay-for-results contracts. Physical-reasoning tests for AI labs, using paid adults only, stay a research option behind evidence gates.
+
+**The 10-year ambition** if NBC becomes the standard is about $254M a year (range $94M–$407M). That requires every gate to pass, and a path from the high scenario into many countries. It is an ambition, not a projection; the deck shows what has to be true.
 
 ## Where we are
 
