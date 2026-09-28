@@ -1,8 +1,10 @@
 # NBC · Next Billion Children
 
-**We make what children can do with their hands visible: as records their families own, standards schools can trust, and tests AI labs need.**
+**Learning infrastructure for the next billion children.**
 
-Built by **Algo Peers** (Cape Coast, Ghana). Founder: **Sam Quansah**. Stage: **pre-seed**, raising in the next six months.
+Algo Peers is building NBC: **programmable physical learning environments where children build, experiment and develop capabilities with shared AI.**
+
+Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising in the next six months.
 
 ![NBC deck cover](deck/cover.png)
 
@@ -10,82 +12,84 @@ Built by **Algo Peers** (Cape Coast, Ghana). Founder: **Sam Quansah**. Stage: **
 
 | | |
 |---|---|
-| **Deck (14 slides)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
+| **Deck (15 slides)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
 | **Website prototype** | [site/index.html](site/index.html). Download it and open it in a browser, or view it on GitHub Pages once enabled |
-| **Concept film (61 s)** | [demo/Village_Table_Concept_Film.mp4](demo/Village_Table_Concept_Film.mp4) |
-| **Prototype demo (55 s)** | [demo/Village_Table_Prototype_Demo.mp4](demo/Village_Table_Prototype_Demo.mp4) |
-| **Forecast** | [docs/FORECAST.md](docs/FORECAST.md) · [docs/revenue_base_case.csv](docs/revenue_base_case.csv) |
+| **Economics and forecasts** | [docs/ECONOMICS.md](docs/ECONOMICS.md) |
 | **Milestones and go-to-market** | [docs/MILESTONES.md](docs/MILESTONES.md) |
-| **How we treat children's data** | [docs/CHILDRENS_DATA.md](docs/CHILDRENS_DATA.md) |
+| **Public-private partnerships** | [docs/PARTNERSHIPS.md](docs/PARTNERSHIPS.md) |
+| **How we treat children's learning and data** | [docs/CHILDRENS_DATA.md](docs/CHILDRENS_DATA.md) |
+| **Concept film and demo** | [demo/](demo/): one possible future, instrumented version of a Learning World (simulated) |
 
 ## The problem
 
-Most children in the world learn at tables, not screens. Ghana now requires every child to learn computing, and most of its schools have few working computers. When a child works something out with their hands, nothing is kept: teachers can't see who is ready for what, and parents get nothing to hold on to. Grades measure recall. Nobody measures whether a skill holds up when the task changes.
-
-## The insight
-
-**Answers are getting cheaper. Capability isn't.** AI learned from what people wrote, and that record has already been scraped at scale. What has never been recorded is what people can *do*: real tasks with real objects, what help they had, and whether the skill held when the task changed. That happens in rooms, and almost none of it is captured. NBC builds the infrastructure to capture it: with consent, owned by families, and never sold.
+**Answers are getting cheaper. Capability isn't.** AI makes explanations and finished work easy to get. The chance to investigate, build, get it wrong and try again still costs time, materials and skilled adults. The problem takes different forms:
+- a child in Cape Coast has few chances to experiment with real things;
+- a child with plenty of AI can't explain or repeat a result when the help changes;
+- a child shows real understanding through action, and no test records it.
 
 ## What NBC is
 
-One layer of infrastructure, in five parts:
-
 | Part | What it does |
 |---|---|
-| **Learning Worlds** | Hands-on games with real objects, written in an open format anyone can run |
-| **Skill records** | What a child has shown, under what conditions and with what help, owned by the family |
-| **Facilitators** | Local people run the sessions, helped by an AI on their own phones |
-| **The NBC Standard** | Independent certification of schools and centres |
-| **AI testing** | AI labs test physical reasoning on our worlds against results from paid adults. Never children's data |
+| **Programmable objects** | The same blocks, tokens and materials take on new roles and rules, so one kit supports many challenges |
+| **Learning Worlds** | Challenges with real consequences: predict, build, test, explain, revise |
+| **Shared AI** | One AI shared by a learning centre helps facilitators prepare, translate and give feedback. No device per child |
+| **Facilitator support** | Guides, worked examples and prompts, so people beyond our team can run great sessions |
+| **Evidence of capability** | What a child can explain, create and do when the task changes. Families can see and correct it |
 
-## The first product: the Village Table
+**Learning comes first.** The experience has to be worth it for the child. Evidence supports the next learning decision, and a child's record is never the product. Cameras, sensors and AI are added only where they clearly beat a simpler approach.
 
-This is how NBC captures learning in a room, cheaply.
-- **Stamped pieces:** bottle caps, clay or wood with a printed code, at under a cent each.
-- **A game cloth:** sets the task.
-- **A lamp:** a retired phone above the table that reads every move. It has no microphone and keeps no images.
-- **A turn stone:** gives every move an owner, with no camera on anyone's face.
-- **A school AI:** runs on the staff's own phones and keeps each child's record.
+## First customer and offer
 
-When the same skill shows up in a different game, the record shows that it carried over.
+- **Customer:** independent operators of recurring hands-on programmes for children aged about 9–12, starting in Cape Coast.
+- **Who uses it:** children use it, a facilitator runs it, and the programme owner buys it.
+- **Offer: NBC Learning Worlds.** Reusable physical experiences, facilitator guidance and a short evidence summary that helps choose each child's next step.
 
-![The Village Table in Ramp World](demo/table-ramp-world.jpg)
+## How we make money
 
-## Who pays
+- **Core:** a programme or site fee from operators.
+- **Options:** a shared AI service, and licensed experience packages.
+- **Stands alone:** the learning business has to work without the options.
+- **Never sold:** we never sell children's data.
+- **Access:** public-private partnerships fund children who can't pay; see [PARTNERSHIPS.md](docs/PARTNERSHIPS.md).
 
-1. **Schools and programmes (now):** Learning Worlds kits, a yearly subscription per facilitator, and licences for small independent schools.
-2. **AI labs (now):** tests of physical reasoning built from our worlds, with results from consenting, paid adults.
-3. **Funders, governments and certification (later):** pay-for-results contracts per verified skill, and fees to certify schools and centres.
-
-Families always use NBC for free. From year 3, AI lab revenue is capped at half of total revenue, so NBC stays an education company.
+We publish projections once pilot data supports them; see [ECONOMICS.md](docs/ECONOMICS.md).
 
 ## Where we are
 
 **Algo Peers, since 2021, Cape Coast:**
 - 1,000+ children reached through our programmes.
-- Families pay for our after-school sessions.
+- Families pay for our after-school programmes.
 - $93,511 in grants, including from Global Affairs Canada.
 - 31 public schools assessed (11,214 students).
+- Our own learning platform and educator training.
 
-**NBC, started September 2026:**
-- A Village Table prototype and demo.
-- A website prototype.
-- An open format for Learning Worlds (v0.1).
-- **No pilots, users or revenue yet.** The prototypes use simulated data; reading real pieces with a real camera is the first build task.
+**NBC:**
+- A thesis, three Learning Worlds and a draft task format.
+- Website and classroom prototypes.
+- **No NBC pilots or revenue yet.** Algo Peers' results don't prove NBC works; the pilot will test that.
 
 ## Team
 
 **Sam Quansah, founder.**
 - Founded Algo Peers in 2021 in Cape Coast, starting in a four-square-metre maker space.
-- Ed.M. candidate, Harvard Graduate School of Education (2027).
+- Originator of the Root Access pedagogy.
+- Ed.M. candidate in Global, International and Comparative Education, Harvard Graduate School of Education (2027).
 - 2024 Mandela Washington Fellow; Harvard i-lab member.
+- Former mentor for the Google Africa Developer Scholarship.
 
-The Cape Coast team runs programmes day to day.
+**Vera Aninakwah, Learning Designer.**
+- Culturally responsive AI, computing and robotics for K-12; supervises our practitioner team.
+- BBC micro:bit Champion and Africa Community Lead.
+- Google certificates in Data Analytics and IT Support; Applied Data Science, WorldQuant University.
+- Penn GSE scholarship recipient, M.S.Ed. Learning Sciences and Technologies.
 
-**Hiring first:**
-- a technical co-founder (computer vision and embedded systems);
-- a learning-science lead;
-- a head of trust and data protection.
+**Nana Adwoa Nsiah, Learning Experience Designer and Creative Technologist.**
+- Leads our Learning Media Lab: culturally grounded, visual learning tools, using animation and games.
+- micro:bit Champion; LLB holder.
+- Cuppy Africa Steinhardt Scholars Award and Global Citizen Scholarship, New York University.
+
+**Hiring first:** a learning scientist, to design the tests, and a technical lead for physical computing and offline software.
 
 ## Contact
 
@@ -96,6 +100,6 @@ The Cape Coast team runs programmes day to day.
 ### Notice
 
 - **Rights.** © 2026 Algo Peers. All rights reserved. This repository is shared so prospective investors and partners can evaluate the company. No licence is granted to copy, adapt or commercialise any material here; see [LICENSE](LICENSE).
-- **Forward-looking statements.** Forecasts, prices and milestones are targets and plans, not results or promises.
+- **Forward-looking statements.** Plans, pass lines and illustrations are not results or promises.
 - **Simulated demo.** The prototypes, film and demo use simulated data; the children shown are fictional.
-- **What is not here.** Technical designs, research data and partner details are available under NDA on request.
+- **What is not here.** Technical designs, research data and partner documents are available under NDA on request.

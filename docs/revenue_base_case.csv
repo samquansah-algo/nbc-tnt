@@ -1,7 +1,0 @@
-line,driver,year_1_units,year_1_price_usd,year_1_revenue_usd,year_2_units,year_2_price_usd,year_2_revenue_usd,year_3_units,year_3_price_usd,year_3_revenue_usd,year_5_units,year_5_price_usd,year_5_revenue_usd,gross_margin
-AI lab testing contracts,contracts,1,150000,150000,3,400000,1200000,4,500000,2000000,10,2000000,20000000,0.60
-Licences for small independent schools,licensed schools,0,0,0,10,8000,80000,60,10000,600000,500,12000,6000000,0.75
-Facilitator subscriptions,paid facilitators,50,120,6000,500,150,75000,3000,180,540000,20000,250,5000000,0.80
-Pay-for-results contracts,verified skills,0,0,0,5000,4,20000,100000,3,300000,2000000,2.5,5000000,0.55
-Certification of schools and centres,certified sites,0,0,0,0,0,0,50,3000,150000,800,4000,3200000,0.70
-Kits and materials,kit revenue,20000,1,20000,100000,1,100000,500000,1,500000,3000000,1,3000000,0.25

@@ -1,48 +1,53 @@
 # Milestones and go-to-market
 
-*Targets and plans, not results.*
+*Plans and proposed pass lines, not results.*
 
-## What we will prove, and when
+## The next milestone
 
-### Next 12 weeks
-| Weeks | Goal |
+Show that **one NBC experience sequence**:
+- can be delivered by facilitators outside our team;
+- produces readable evidence of children's learning on an unfamiliar task;
+- earns paid continuation at a support cost the buyer and NBC can sustain.
+
+This first cycle tests feasibility. It prepares a stronger comparative study, and it does not prove broad effectiveness.
+
+## Eight weeks
+
+| Week | Work | Decision |
+|---|---|---|
+| 1 | 6 operator and facilitator conversations; one learning problem and age band | Which learning decision and buyer to serve |
+| 2 | 12–16 conversations in total; independent review of one capability and three task designs; a costed pilot offer | One offer and one bounded learning claim |
+| 3 | Small task-usability sessions; a baseline check; offers to 10 qualified buyers | Fix the tasks; choose the least capture that is still useful |
+| 4 | External facilitators deliver it; we record preparation, help given and children's explanations | Self-service kit, supported programme, or redesign |
+| 5 | A delayed, unfamiliar task, scored blind | Is richer capture worth its burden? |
+| 6 | Repeat delivery; record payments, buyer decisions and costs | Continue the paid pilot |
+| 7 | Contrasting site if access is ready, otherwise a local repeat | Which parts travel and which need adapting |
+| 8 | Review every gate | Repeat, simplify, change payer, or pause a part |
+
+## Pass lines, set before we start
+
+| Gate | Passes if |
 |---|---|
-| 1–2 | A retired phone above the table reads stamped stones live |
-| 2–4 | Two game cloths, and a test of stamping codes onto local materials |
-| 3–6 | The school AI running on staff phones |
-| 5–8 | Tests in real classrooms: light, clutter, hands in the way |
-| 8–12 | A pilot at 3–5 sites, reached through school leaders and club owners, with consent |
+| Paid demand | 3 of 10 qualified, independently approached buyers make a meaningful paid commitment |
+| Delivery | At least two external facilitators each run repeated sessions within the quoted support |
+| Learning | Baseline and delayed results, explanations and failure patterns can be read. Engagement alone is not a result |
+| Measurement | Independent scorers meet an agreement standard set in advance, with uncertainty reported |
+| Economics | Repeated delivery covers its direct costs, with full operating costs still shown |
+| Another setting | Tasks for the same age group work well enough to read at a contrasting site |
 
-### By March 2027
-We ask to be judged on four numbers:
-
-1. **Capture:** the lamp reads at least 98% of stones correctly in real classrooms.
-2. **Use:** 80+ children playing weekly across 3 sites. At least 60% come back by choice in week four, and teachers take no extra steps per game.
-3. **Evidence:** a first published result on whether a skill carries over from one game to another, set up in advance and reported whatever it shows.
-4. **Revenue:** first paid contracts, from a school or club and from an AI lab.
-
-### By month 12
-Seed-ready:
-- repeatable paid pilots;
-- a second country;
-- an AI lab customer that comes back.
-
-## If something fails, we change course
-
-- **The camera can't read real stones reliably:** we switch to an NFC board with no camera at all.
-- **Children don't come back:** we redesign the games before building more hardware.
-- **A community doesn't want any lens above the table:** that site gets the NFC board.
+If the data can't answer a question, we record "inconclusive" rather than moving the pass line.
 
 ## Go-to-market
 
-| Customer | How we reach them | First step |
-|---|---|---|
-| After-school clubs and private schools in Cape Coast | Algo Peers' existing families, schools and paid after-school programme | 3 paid pilot sites |
-| Public schools | Algo Peers' network of 31 assessed schools, funded by sponsors and grants | 1–2 sponsored sites |
-| AI labs | Introductions to evaluation and safety teams; a sample test built from one game | 1 paid pilot contract |
-| Funders and governments | Results from the pilot, then pay-for-results pilots | After the first published result |
+| Route | Role now |
+|---|---|
+| Independent after-school and community programme operators | **First commercial test**, starting in Cape Coast |
+| Families reached through Algo Peers | Discovery channel and a cheap test of a family offer |
+| Schools | Eligible when the buyer, timetable and budget fit the same offer |
+| Libraries, museums, makerspaces | Comparison sites, and distribution later |
+| Governments and publishers | Scaling channels, once delivery and evidence are proven |
 
-**Principles:**
-- Children are only ever reached through the adults responsible for them.
-- We sell to schools and clubs, never directly to children.
-- We grow site by site: a new site or country is added only after the last one shows children coming back and a customer paying.
+**Rules we keep:**
+- Children are reached only through the adults responsible for them.
+- We run one sales motion at a time. We will not launch operator sales and a mass family subscription together.
+- We add international sites for research before we sell internationally.
