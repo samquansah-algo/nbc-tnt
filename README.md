@@ -12,9 +12,9 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 
 | | |
 |---|---|
-| **Deck (15 slides)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
+| **Deck (19 slides)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
 | **Website prototype** | [site/index.html](site/index.html). Download it and open it in a browser, or view it on GitHub Pages once enabled |
-| **Economics and forecasts** | [docs/ECONOMICS.md](docs/ECONOMICS.md) |
+| **Market, economics and projections** | [docs/ECONOMICS.md](docs/ECONOMICS.md) · [docs/projections_scenarios.csv](docs/projections_scenarios.csv) |
 | **Milestones and go-to-market** | [docs/MILESTONES.md](docs/MILESTONES.md) |
 | **Public-private partnerships** | [docs/PARTNERSHIPS.md](docs/PARTNERSHIPS.md) |
 | **How we treat children's learning and data** | [docs/CHILDRENS_DATA.md](docs/CHILDRENS_DATA.md) |
@@ -31,13 +31,30 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 
 | Part | What it does |
 |---|---|
-| **Programmable objects** | The same blocks, tokens and materials take on new roles and rules, so one kit supports many challenges |
-| **Learning Worlds** | Challenges with real consequences: predict, build, test, explain, revise |
+| **Programmable materials** | micro:bit, sensors and everyday materials whose roles and rules change, so one kit supports many worlds |
+| **Learning Worlds** | Designed learning experiences around real problems in the child's own world (below) |
 | **Shared AI** | One AI shared by a learning centre helps facilitators prepare, translate and give feedback. No device per child |
 | **Facilitator support** | Guides, worked examples and prompts, so people beyond our team can run great sessions |
 | **Evidence of capability** | What a child can explain, create and do when the task changes. Families can see and correct it |
 
 **Learning comes first.** The experience has to be worth it for the child. Evidence supports the next learning decision, and a child's record is never the product. Cameras, sensors and AI are added only where they clearly beat a simpler approach.
+
+## What a Learning World is
+
+A Learning World is a designed, multi-session experience, not a worksheet or a token game. It follows four phases from Algo Peers' Root Access pedagogy:
+1. **Belong:** a story and a real problem from the child's world. "Do I see my world here?"
+2. **Investigate:** children build with programmable materials and ask AI good questions.
+3. **Understand:** predict, test, explain, revise. "What is really going on underneath?"
+4. **Apply:** build something for someone real, then show the skill in a new situation.
+
+Each world ships with a facilitator guide, a materials list, AI prompts and short checks. Printed cards and tokens are only the low-cost floor for rooms with nothing else.
+
+**Example: Farm World.** Algo Peers already ran it as a module on technology for food security.
+- **Who took part:** 51 learners aged 7–15, from 34 communities; 53% were girls.
+- **What they built:** 7 working prototypes, including AI pest detection, smart irrigation, soil moisture monitors and a vegetable classifier, using micro:bit, Teachable Machine and recycled materials.
+- **What the numbers show:** participation and outputs, not a measured learning effect.
+
+NBC turns worlds like this into repeatable packages other facilitators can run.
 
 ## First customer and offer
 
@@ -53,7 +70,15 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 - **Never sold:** we never sell children's data.
 - **Access:** public-private partnerships fund children who can't pay; see [PARTNERSHIPS.md](docs/PARTNERSHIPS.md).
 
-We publish projections once pilot data supports them; see [ECONOMICS.md](docs/ECONOMICS.md).
+## Market and projections
+
+| | Size | Basis |
+|---|---|---|
+| **TAM** | $29–53B a year | Global after-school programmes, 2025 (industry estimates; methods vary). 1.4 billion students are enrolled worldwide |
+| **SAM** | ~$99M a year | Ghana's ~27,400 primary and junior high schools × $3,600 per site a year |
+| **SOM (year 5)** | ~$3.2M a year | 800 paying sites, about 3% of Ghana's schools (central scenario) |
+
+**Year-5 revenue by scenario:** low $0.36M (100 sites) · central $3.2M (800 sites) · high $11.3M (2,500 sites, including a second country). These are projections from stated assumptions, not forecasts, and we will rebuild them from pilot data. Details: [ECONOMICS.md](docs/ECONOMICS.md).
 
 ## Where we are
 
