@@ -103,6 +103,10 @@ NBC turns worlds like this into repeatable packages other facilitators can run.
 
 ## Team
 
+| <img src="team/sam-quansah.jpg" alt="Sam Quansah" width="160"> | <img src="team/vera-aninakwah.jpg" alt="Vera Aninakwah" width="160"> | <img src="team/nana-adwoa-nsiah.jpg" alt="Nana Adwoa Nsiah" width="160"> | <img src="team/deborah-quansah.jpg" alt="Deborah Quansah" width="160"> |
+|---|---|---|---|
+| **Sam Quansah**<br>Founder | **Vera Aninakwah**<br>Learning Designer | **Nana Adwoa Nsiah**<br>Learning Experience Designer | **Deborah Quansah**<br>Sales and Marketing Lead |
+
 **Sam Quansah, founder.**
 - Founded Algo Peers in 2021 in Cape Coast, starting in a four-square-metre maker space.
 - Originator of the Root Access pedagogy.
@@ -120,6 +124,8 @@ NBC turns worlds like this into repeatable packages other facilitators can run.
 - Leads our Learning Media Lab: culturally grounded, visual learning tools, using animation and games.
 - micro:bit Champion; LLB holder.
 - Cuppy Africa Steinhardt Scholars Award and Global Citizen Scholarship, New York University.
+
+**Deborah Quansah, Sales and Marketing Lead.** Leads sales and marketing to programme operators, schools and families.
 
 **Hiring first:** a learning scientist, to design the tests, and a technical lead for physical computing and offline software.
 
