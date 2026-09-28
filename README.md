@@ -1,3 +1,5 @@
+<img src="brand/logo/nbc-v3-endorsed-ink.svg" alt="Next Billion Children, a venture by Algo Peers" width="320">
+
 # NBC · Next Billion Children
 
 **Learning infrastructure for the next billion children.**
@@ -12,11 +14,12 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 
 | | |
 |---|---|
-| **Deck (23 slides + 3 appendix)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
+| **Deck (23 slides + 4 appendix)** | [deck/NBC_Deck.pdf](deck/NBC_Deck.pdf) |
 | **Website prototype** | [site/index.html](site/index.html). Download it and open it in a browser, or view it on GitHub Pages once enabled |
 | **Market, economics and projections** | [docs/ECONOMICS.md](docs/ECONOMICS.md) · [docs/projections_scenarios.csv](docs/projections_scenarios.csv) |
 | **Milestones and go-to-market** | [docs/MILESTONES.md](docs/MILESTONES.md) |
 | **Public-private partnerships** | [docs/PARTNERSHIPS.md](docs/PARTNERSHIPS.md) |
+| **Brand strategy** | [docs/BRAND.md](docs/BRAND.md) · logos and tokens in [brand/](brand/) (Algo Peers brand system) |
 | **How we treat children's learning and data** | [docs/CHILDRENS_DATA.md](docs/CHILDRENS_DATA.md) |
 | **Concept film and demo** | [demo/](demo/): one possible future, instrumented version of a Learning World (simulated) |
 
