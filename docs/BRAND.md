@@ -1,5 +1,7 @@
 # Brand strategy
 
+**Visual brand guide:** [brand/NBC_Brand_Guide.pdf](../brand/NBC_Brand_Guide.pdf), covering logo use and misuse, colour, type, voice, graphics, icons, applications, and rules for children and evidence.
+
 NBC's brand sits inside the **Algo Peers family**. It uses the Algo Peers brand system unchanged, and gives each colour a job taken from the NBC thesis. *This is a proposal: it has not yet been tested with children, families, facilitators or buyers.*
 
 ## Positioning
@@ -18,7 +20,7 @@ NBC's brand sits inside the **Algo Peers family**. It uses the Algo Peers brand 
 | **Learning Worlds** (working name) | The offer: designed learning experiences for programmes |
 | **Papa Algo** | A character children meet, where it fits |
 
-**Logo:** the recommended mark is the **endorsed** one, "Next Billion Children, a venture by Algo Peers" ([`brand/logo/`](../brand/logo/)). It is used in one colour only: white on brand colours, ink on white.
+**Logo:** the NBC lockup, the piece plus the "Next Billion Children" wordmark ([`brand/logo/`](../brand/logo/)). It carries no Algo Peers mark; Algo Peers is named in text where the relationship matters. It is used in one colour only: white on brand colours, ink on white.
 
 ## Message levels
 
@@ -74,6 +76,6 @@ Each level has one job:
 
 ## Open brand decisions
 
-- **Endorsed or extension?** The endorsed logo fits NBC becoming its own company. The extension pattern ("algo NBC") fits NBC staying a programme line inside Algo Peers.
+- **Standalone or endorsed?** The NBC lockup stands alone. If NBC later presents itself as part of the Algo Peers family visually, the Algo Peers brand guide offers an endorsed version.
 - **Naming clearance.** "NBC" and "Next Billion" have existing uses, so both need trademark clearance before a launch.
 - **Font licence.** Confirm the Cera Round Pro licence covers NBC if it becomes a separate company.
