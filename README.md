@@ -4,7 +4,7 @@
 
 **Learning infrastructure for the next billion children.**
 
-Algo Peers is building NBC: **programmable physical learning environments where children build, experiment and develop capabilities with shared AI.**
+Algo Peers is building NBC: **Physical AI for learning: programmable physical environments where children build, experiment and develop capabilities with shared AI.**
 
 Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising in the next six months.
 
@@ -21,7 +21,7 @@ Founder: **Sam Quansah**. Base: Cape Coast, Ghana. Stage: **pre-seed**, raising 
 | **Public-private partnerships** | [docs/PARTNERSHIPS.md](docs/PARTNERSHIPS.md) |
 | **Brand guide and strategy** | [brand/NBC_Brand_Guide.pdf](brand/NBC_Brand_Guide.pdf) (14 pages) · [docs/BRAND.md](docs/BRAND.md) · logos and tokens in [brand/](brand/) |
 | **How we treat children's learning and data** | [docs/CHILDRENS_DATA.md](docs/CHILDRENS_DATA.md) |
-| **Concept film and demo** | [demo/](demo/): one possible future, instrumented version of a Learning World (simulated) |
+| **Concept film and demo** | Available on request (simulated prototype) |
 
 ## The problem
 
